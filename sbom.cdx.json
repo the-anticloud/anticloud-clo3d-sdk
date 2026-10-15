@@ -1,0 +1,38 @@
+{
+  "bomFormat": "CycloneDX",
+  "specVersion": "1.5",
+  "serialNumber": "urn:uuid:882bd506-c34a-5d5d-ba26-c830d2e99966",
+  "version": 1,
+  "metadata": {
+    "timestamp": "2026-10-05T15:42:13Z",
+    "component": {
+      "type": "application",
+      "name": "CLO3D_SDK",
+      "version": "unknown",
+      "bom-ref": "pkg:generic/anticloud/CLO3D_SDK@unknown",
+      "purl": "pkg:generic/anticloud/CLO3D_SDK@unknown",
+      "licenses": [
+        {
+          "license": {
+            "id": "NOASSERTION"
+          }
+        }
+      ]
+    },
+    "properties": [
+      {
+        "name": "anticloud:source-commit",
+        "value": ""
+      },
+      {
+        "name": "anticloud:source-url",
+        "value": ""
+      },
+      {
+        "name": "anticloud:tier",
+        "value": "tier-agent"
+      }
+    ]
+  },
+  "components": []
+}
